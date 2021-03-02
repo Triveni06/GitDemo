@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38" started-at="2020-07-01T17:27:24 EDT" finished-at="2020-07-01T17:27:24 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38" started-at="2020-07-01T17:27:24 EDT" finished-at="2020-07-01T17:27:24 EDT">
+      <class name="testcases.Searchphone">
+        <test-method status="PASS" signature="search()[pri:1, instance:testcases.Searchphone@31610302]" name="search" duration-ms="7" started-at="2020-07-01T17:27:24 EDT" finished-at="2020-07-01T17:27:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="selectphone()[pri:2, instance:testcases.Searchphone@31610302]" name="selectphone" duration-ms="1" started-at="2020-07-01T17:27:24 EDT" finished-at="2020-07-01T17:27:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectphone -->
+        <test-method status="PASS" signature="checkout()[pri:3, instance:testcases.Searchphone@31610302]" name="checkout" duration-ms="1" started-at="2020-07-01T17:27:24 EDT" finished-at="2020-07-01T17:27:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- testcases.Searchphone -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
