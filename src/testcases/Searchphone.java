@@ -6,6 +6,7 @@ public class Searchphone {
 	@Test(priority=1)
 	public void search() {
 		System.out.println("searching phone");
+		System.out.println("searching Second phone");
 	}
 	@Test(priority=2)
 	public void selectphone() {
