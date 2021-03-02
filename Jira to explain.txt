@@ -1,0 +1,15 @@
+Jira is Project management tool where we are keeping all the stories and track the status of it. 
+
+Here BA will be creating all stories in the Backlog whatever needed by business team.
+Later we will be gromming those stories with BA, Dev team, QA team by adding all the required details like Acceptance Criteria what are all needed to be validate as part of this story under Defination of done before closing this story. during grooming itself, we will be giving story points as well like how many days required to complete this story. Example if story is small we will be giving 3 points (i.e 1 day effort) and if its a complex one where it needs multiple integrations then will be giving 7 points (5 days).
+
+Once after Grooming done, the story will be moved to Sprint Ready status. Based on release & story priority, we will be pulling the stories to current sprint.
+
+Once developer starts working on the story they will change the status to "In Dev". during this time, QA team will go through the stories and build the Test data, test scripts or test cases ready before code moves to QA team.
+
+Once developer done with coding for that story, they will move the story to QA team with status as "QA Ready".
+
+Immediately we will be start testing and change the status to "In QA".
+
+Here we will executing test cases & Test scripts whatever needed for story. if everything is working fine we will move story to Pending Acceptance or Close. Some projects will be directly close the story but where as someother projects QA team will move to Pending Acceptance as long as it is working fine.. After sometime, BA will review QA test evidences & results, then we will close the story.
+
