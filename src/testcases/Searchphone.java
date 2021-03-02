@@ -16,5 +16,9 @@ public class Searchphone {
 	public void checkout() {
 		System.out.println("check out phone");
 	}
+	@Test (priority=4)
+	public void checkout1() {
+		System.out.println("check out phonei");
+	}
 
 }
